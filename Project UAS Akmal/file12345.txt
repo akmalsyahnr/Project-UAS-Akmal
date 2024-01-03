@@ -1,0 +1,5 @@
+Reseller ID:12345
+Reseller Name     :Tagor
+Contact  :0123421
+Email Information :arjuna123@gmail.com
+Position :reseller
